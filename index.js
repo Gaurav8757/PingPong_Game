@@ -3,7 +3,7 @@ var bar1 = document.getElementById("bar-1");
 var bar2 = document.getElementById("bar-2");
 var ball = document.getElementById("ball");
 // slider movement
-var movement = 90;
+var movement = 190;
 
 const thisBar1 = "Bar-1";
 const thisBar2 = "Bar-2";
