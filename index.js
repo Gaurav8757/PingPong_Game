@@ -14,7 +14,7 @@ let whichBar;
 let moveX = 3;
 let moveY = 3;
 let ballMoving;
-let border = 60;
+let border = 12;
 let score;
 let highScore;
 let gameStart = false;
